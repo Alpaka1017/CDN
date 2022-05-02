@@ -271,6 +271,150 @@ var mplayer_song = [
 		"time":"4:46",
 		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E7%BA%AF%E9%9F%B3%E4%B9%90/%E9%A5%AD%E7%A2%97%E7%9A%84%E5%BD%BC%E5%B2%B8%20-%20%E9%A3%8E%E5%B1%85%E4%BD%8F%E7%9A%84%E8%A1%97%E9%81%93%EF%BC%88Piano%20ver%EF%BC%89%20%28%E7%BF%BB%E8%87%AA%20%E7%A3%AF%E6%9D%91%E7%94%B1%E7%B4%80%E5%AD%90%EF%BC%89.mp3",
 		"lrc":"[ti:风居住的街道（Piano ver）][ar:磯村由紀子][al:][by:][offset:0][00:00.79]纯音乐，请欣赏\n"
+	},
+	{
+		"name":"Concerto pour piano n°2, Op. 18:I. Allegro moderato",
+		"singer":"Rachmaninoff: Piano Concerto No. 2",
+		"img":"http://p2.music.126.net/s8yCIX3pCGnwJPj3ON_eFw==/109951165295585164.jpg?param=130y130",
+		"time":"11:56",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E5%BF%83%E6%82%A6%E5%8D%BF%E5%85%AE/Concerto%20pour%20piano%20n%C2%B02%2C%20Op.%2018I.%20Allegro%20moderato.mp3",
+		"lrc":"[00:00.00] 作曲 : Sergei Rachmaninoff[99:00.00]纯音乐，请欣赏\n"
+	},
+	{
+		"name":"Concerto pour piano n°2, Op. 18:II. Adagio sostenuto",
+		"singer":"Rachmaninoff: Piano Concerto No. 2",
+		"img":"https://p1.music.126.net/H4DU3QDc6xXzT5BSTrPZ9g==/3440371884074274.jpg?param=200y200",
+		"time":"11:13",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E5%BF%83%E6%82%A6%E5%8D%BF%E5%85%AE/Concerto%20pour%20piano%20n%C2%B02%2C%20Op.%2018II.%20Adagio%20sostenuto.mp3",
+		"lrc":"[00:00.00] 作曲 : Sergei Rachmaninoff[99:00.00]纯音乐，请欣赏\n"
+	},
+	{
+		"name":"Concerto pour piano n°2, Op. 18:III. Allegro scherzando",
+		"singer":"Rachmaninoff: Piano Concerto No. 2",
+		"img":"https://p1.music.126.net/H4DU3QDc6xXzT5BSTrPZ9g==/3440371884074274.jpg?param=200y200",
+		"time":"11:30",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E5%BF%83%E6%82%A6%E5%8D%BF%E5%85%AE/Concerto%20pour%20piano%20n%C2%B02%2C%20Op.%2018III.%20Allegro%20scherzando.mp3",
+		"lrc":"[00:00.00] 作曲 : Sergei Rachmaninoff[99:00.00]纯音乐，请欣赏\n"
+	},
+	{
+		"name":"Piano Concerto No.2 In C Minor, Op.18:1. Moderato",
+		"singer":"Rachmaninov: Piano Concerto No.2 / Tchaikovsky: Piano Concerto No.1",
+		"img":"http://p1.music.126.net/gPxzqf3L5FWDvrvBxtJn3A==/109951165071397234.jpg?param=130y130",
+		"time":"11:13",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E7%BA%AF%E9%9F%B3%E4%B9%90/Piano%20Concerto%20No.2%20In%20C%20Minor%2C%20Op.181.%20Moderato.mp3",
+		"lrc":"[00:00.00] 作曲 : Sergei Rachmaninoff[99:00.00]纯音乐，请欣赏\n"
+	},
+	{
+		"name":"Piano Concerto No.2 In C Minor, Op.18:2. Adagio sostenuto",
+		"singer":"Rachmaninov: Piano Concerto No.2 / Tchaikovsky: Piano Concerto No.1",
+		"img":"http://p1.music.126.net/gPxzqf3L5FWDvrvBxtJn3A==/109951165071397234.jpg?param=130y130",
+		"time":"11:54",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E7%BA%AF%E9%9F%B3%E4%B9%90/Piano%20Concerto%20No.2%20In%20C%20Minor%2C%20Op.182.%20Adagio%20sostenuto.mp3",
+		"lrc":"[00:00.00] 作曲 : Sergei Rachmaninoff[99:00.00]纯音乐，请欣赏\n"
+	},
+	{
+		"name":"Piano Concerto No.2 In C Minor, Op.18:3. Allegro scherzando",
+		"singer":"Rachmaninov: Piano Concerto No.2 / Tchaikovsky: Piano Concerto No.1",
+		"img":"http://p1.music.126.net/gPxzqf3L5FWDvrvBxtJn3A==/109951165071397234.jpg?param=130y130",
+		"time":"11:54",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E7%BA%AF%E9%9F%B3%E4%B9%90/Piano%20Concerto%20No.2%20In%20C%20Minor%2C%20Op.183.%20Allegro%20scherzando.mp3",
+		"lrc":"[00:00.00] 作曲 : Sergei Rachmaninoff[99:00.00]纯音乐，请欣赏\n"
+	},
+	{
+		"name":"Prelude & Fugue No. 1 in C Major, BWV 846:Prelude",
+		"singer":"巴赫：平均律键盘曲集，第一卷",
+		"img":"http://p2.music.126.net/BRD6wJVHA5a-Wgv1uYNkug==/109951165847356012.jpg?param=130y130",
+		"time":"2:22",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E7%BA%AF%E9%9F%B3%E4%B9%90/Glenn%20Gould%20-%20Prelude%20%26%20Fugue%20No.%201%20in%20C%20Major%2C%20BWV%20846%EF%BC%9APrelude.mp3",
+		"lrc":"[00:00.00] 作曲 : Johann Sebastian Bach[99:00.00]纯音乐，请欣赏\n"
+	},
+	{
+		"name":"Prelude & Fugue No. 1 in C Major, BWV 846:Fugue",
+		"singer":"巴赫：平均律键盘曲集，第一卷",
+		"img":"http://p2.music.126.net/BRD6wJVHA5a-Wgv1uYNkug==/109951165847356012.jpg?param=130y130",
+		"time":"1:58",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E7%BA%AF%E9%9F%B3%E4%B9%90/Glenn%20Gould%20-%20Prelude%20%26%20Fugue%20No.%201%20in%20C%20Major%2C%20BWV%20846%EF%BC%9AFugue.mp3",
+		"lrc":"[00:00.00] 作曲 : Johann Sebastian Bach[99:00.00]纯音乐，请欣赏\n"
+	},
+	{
+		"name":"Prelude & Fugue No. 2 in C minor, BWV 847:Prelude",
+		"singer":"巴赫：平均律键盘曲集，第一卷",
+		"img":"http://p2.music.126.net/BRD6wJVHA5a-Wgv1uYNkug==/109951165847356012.jpg?param=130y130",
+		"time":"2:08",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E7%BA%AF%E9%9F%B3%E4%B9%90/Glenn%20Gould%20-%20Prelude%20%26%20Fugue%20No.%202%20in%20C%20minor%2C%20BWV%20847%EF%BC%9APrelude.mp3",
+		"lrc":"[00:00.00] 作曲 : Johann Sebastian Bach[99:00.00]纯音乐，请欣赏\n"
+	},
+	{
+		"name":"Prelude & Fugue No. 2 in C minor, BWV 847:Fugue",
+		"singer":"巴赫：平均律键盘曲集，第一卷",
+		"img":"http://p2.music.126.net/BRD6wJVHA5a-Wgv1uYNkug==/109951165847356012.jpg?param=130y130",
+		"time":"1:37",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E7%BA%AF%E9%9F%B3%E4%B9%90/Glenn%20Gould%20-%20Prelude%20%26%20Fugue%20No.%202%20in%20C%20minor%2C%20BWV%20847%EF%BC%9AFugue.mp3",
+		"lrc":"[00:00.00] 作曲 : Johann Sebastian Bach[99:00.00]纯音乐，请欣赏\n"
+	},
+	{
+		"name":"Prelude & Fugue No. 3 in C-sharp Major, BWV 848:Prelude",
+		"singer":"巴赫：平均律键盘曲集，第一卷",
+		"img":"http://p2.music.126.net/BRD6wJVHA5a-Wgv1uYNkug==/109951165847356012.jpg?param=130y130",
+		"time":"1:37",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E7%BA%AF%E9%9F%B3%E4%B9%90/Glenn%20Gould%20-%20Prelude%20%26%20Fugue%20No.%203%20in%20C-sharp%20Major%2C%20BWV%20848%EF%BC%9APrelude.mp3",
+		"lrc":"[00:00.00] 作曲 : Johann Sebastian Bach[99:00.00]纯音乐，请欣赏\n"
+	},
+	{
+		"name":"Prelude & Fugue No. 3 in C-sharp Major, BWV 848:Fugue",
+		"singer":"巴赫：平均律键盘曲集，第一卷",
+		"img":"http://p2.music.126.net/BRD6wJVHA5a-Wgv1uYNkug==/109951165847356012.jpg?param=130y130",
+		"time":"2:05",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E7%BA%AF%E9%9F%B3%E4%B9%90/Glenn%20Gould%20-%20Prelude%20%26%20Fugue%20No.%202%20in%20C%20minor%2C%20BWV%20847%EF%BC%9AFugue.mp3",
+		"lrc":"[00:00.00] 作曲 : Johann Sebastian Bach[99:00.00]纯音乐，请欣赏\n"
+	},
+	{
+		"name":"Prelude & Fugue No. 6 in D minor, BWV 851:Prelude",
+		"singer":"巴赫：平均律键盘曲集，第一卷",
+		"img":"http://p2.music.126.net/BRD6wJVHA5a-Wgv1uYNkug==/109951165847356012.jpg?param=130y130",
+		"time":"1:19",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E7%BA%AF%E9%9F%B3%E4%B9%90/Glenn%20Gould%20-%20Prelude%20%26%20Fugue%20No.%206%20in%20D%20minor%2C%20BWV%20851%EF%BC%9APrelude.mp3",
+		"lrc":"[00:00.00] 作曲 : Johann Sebastian Bach[99:00.00]纯音乐，请欣赏\n"
+	},
+	{
+		"name":"Prelude & Fugue No. 6 in D minor, BWV 851:Fugue",
+		"singer":"巴赫：平均律键盘曲集，第一卷",
+		"img":"http://p2.music.126.net/BRD6wJVHA5a-Wgv1uYNkug==/109951165847356012.jpg?param=130y130",
+		"time":"1:19",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E7%BA%AF%E9%9F%B3%E4%B9%90/Glenn%20Gould%20-%20Prelude%20%26%20Fugue%20No.%206%20in%20D%20minor%2C%20BWV%20851%EF%BC%9AFugue.mp3",
+		"lrc":"[00:00.00] 作曲 : Johann Sebastian Bach[99:00.00]纯音乐，请欣赏\n"
+	},
+	{
+		"name":"Prelude & Fugue No. 10 in E minor, BWV 855:Prelude",
+		"singer":"巴赫：平均律键盘曲集，第一卷",
+		"img":"http://p2.music.126.net/BRD6wJVHA5a-Wgv1uYNkug==/109951165847356012.jpg?param=130y130",
+		"time":"1:19",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E7%BA%AF%E9%9F%B3%E4%B9%90/Glenn%20Gould%20-%20Prelude%20%26%20Fugue%20No.%2010%20in%20E%20minor%2C%20BWV%20855%EF%BC%9APrelude.mp3",
+		"lrc":"[00:00.00] 作曲 : Johann Sebastian Bach[99:00.00]纯音乐，请欣赏\n"
+	},
+	{
+		"name":"Prelude & Fugue No. 10 in E minor, BWV 855:Fugue",
+		"singer":"巴赫：平均律键盘曲集，第一卷",
+		"img":"http://p2.music.126.net/BRD6wJVHA5a-Wgv1uYNkug==/109951165847356012.jpg?param=130y130",
+		"time":"1:19",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E7%BA%AF%E9%9F%B3%E4%B9%90/Glenn%20Gould%20-%20Prelude%20%26%20Fugue%20No.%2010%20in%20E%20minor%2C%20BWV%20855%EF%BC%9AFugue.mp3",
+		"lrc":"[00:00.00] 作曲 : Johann Sebastian Bach[99:00.00]纯音乐，请欣赏\n"
+	},
+	{
+		"name":"Prelude & Fugue No. 14 in F-sharp minor, BWV 859:Prelude",
+		"singer":"巴赫：平均律键盘曲集，第一卷",
+		"img":"http://p2.music.126.net/BRD6wJVHA5a-Wgv1uYNkug==/109951165847356012.jpg?param=130y130",
+		"time":"1:19",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E7%BA%AF%E9%9F%B3%E4%B9%90/Glenn%20Gould%20-%20Prelude%20%26%20Fugue%20No.%2014%20in%20F-sharp%20minor%2C%20BWV%20859%EF%BC%9APrelude.mp3",
+		"lrc":"[00:00.00] 作曲 : Johann Sebastian Bach[99:00.00]纯音乐，请欣赏\n"
+	},
+	{
+		"name":"Prelude & Fugue No. 14 in F-sharp minor, BWV 859:Fugue",
+		"singer":"巴赫：平均律键盘曲集，第一卷",
+		"img":"http://p2.music.126.net/BRD6wJVHA5a-Wgv1uYNkug==/109951165847356012.jpg?param=130y130",
+		"time":"1:19",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E7%BA%AF%E9%9F%B3%E4%B9%90/Glenn%20Gould%20-%20Prelude%20%26%20Fugue%20No.%2014%20in%20F-sharp%20minor%2C%20BWV%20859%EF%BC%9AFugue.mp3",
+		"lrc":"[00:00.00] 作曲 : Johann Sebastian Bach[99:00.00]纯音乐，请欣赏\n"
 	}
 ],
 /*分类2《民谣至上》*/
@@ -941,6 +1085,14 @@ var mplayer_song = [
 		"lrc":"[id:$00FBED11][ar:rammstein][ti:eifersucht][by:][hash:e98f74ebecf7ee2bc8ae9187d5f2d43a][al:][sign:][qq:][total:217417][offset:0][00:37.87]Bin ich schoner[00:39.17]Zerschneid mir das gesicht[00:41.80]Bin ich starker[00:42.72]Brich feige mein genick[00:45.48]Bin ich kluger[00:46.82]Tote mich und iss mein hirn[00:48.81]Hab ich dein weib[00:50.32]Tote mich und iss mich ganz auf[00:58.97]Dann iss mich ganz auf[01:07.37]Bin ich ehrlicher[01:09.09]Beiss mir die zunge ab[01:11.28]Bin ich reicher[01:12.92]Dann nimm mir alles[01:14.87]Bin ich mutiger[01:16.21]Tote mich und iss mein herz[01:18.29]Hab ich dein weib[01:19.90]Tote mich und iss mich ganz auf[01:28.34]Dann iss mich ganz auf[01:32.16]Doch leck den teller ab[01:35.95]Es kocht die eifersucht[01:40.31]Eifersucht[01:44.02]Eifersucht[01:47.12]Eifersucht[01:51.35]Eifersucht[01:55.14]Eifersucht[01:58.76]Eifersucht[02:02.23]Eifersucht[02:20.83]Hab ich so glatte haut[02:22.87]Zieh sie in streifen ab[02:24.70]Hab ich die klaren augen[02:26.49]Nimm mir das licht[02:28.42]Hab ich die reine seele[02:29.92]Tote sie in flammen[02:32.16]Habe ich dein weib dann[02:33.63]Tote mich und iss mich ganz auf[02:42.11]Dann iss mich ganz auf[02:45.92]Doch leck den teller ab[02:49.65]Es kocht die eifersucht[02:54.11]Eifersucht[02:57.79]Eifersucht[03:01.43]Eifersucht[03:05.13]Eifersucht[03:08.89]Eifersucht[03:12.82]Eifersucht[03:16.04]Eifersucht[03:19.96]Eifersucht[03:23.71]Eifersucht[03:27.30]Eifersucht[03:31.00]Eifersucht\n"
 	},
 	{
+		"name":"Zick zack",
+		"singer":"Rammstein",
+		"time":"4:04",
+		"img":"http://p1.music.126.net/QU919aFjaEbg1QHcKuOuFQ==/109951167259653481.jpg?param=130y130",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E5%BF%83%E6%82%A6%E5%8D%BF%E5%85%AE/Zick%20Zack.mp3",
+		"lrc":"[00:00.00] 作词 : Till Lindemann/Richard Z. Kruspe/Paul Landers/Oliver Riedel/Christoph Doom Schneider/Doktor Christian Lorenz[00:01.00] 作曲 : Till Lindemann/Richard Z. Kruspe/Paul Landers/Oliver Riedel/Christoph Doom Schneider/Doktor Christian Lorenz[00:14.49]Schöner, größer, härter[00:21.42]Straffer, glatter, stärker[00:31.38]Deine Brüste sind zu klein[00:35.10]Zwei Pfund Silikon sind fein[00:38.96]Säcke schneiden von den Augen[00:42.57]Nase fräsen, Fett wegsaugen[00:46.32]Wir entfernen rasch zwei Rippen[00:49.89]Schlauchboot basteln aus den Lippen[00:53.48]In die Wangen, in die Stirn[00:57.18]Botox rein bis ins Gehirn[01:00.88]Zick Zack, Zick Zack, schneid es ab[01:07.42]Zick Zack, Zick Zack, kurz und knapp[01:14.83]Alles Schlaffe überm Kinn[01:19.31]Kann man in den Nacken ziehen[01:23.06]Implantate ins Gefräß[01:26.84]Und wir liften das Gesäß[01:30.49]Messer, Tupfer, Vollnarkose[01:34.14]Sieben Kilo Reiterhose und[01:37.86]Bauchfett in die Biotonne[01:41.43]Der Penis sieht jetzt wieder Sonne[01:45.41]Zick Zack, Zick Zack, schneid das ab[01:52.34]Tick Tack, Tick Tack, du wirst alt[01:56.48]Deine Zeit läuft langsam ab[01:60.00]Wer schön sein will, der muss auch leiden[02:03.75]Aus- und weg- und abschneiden[02:07.78]Nadel, Faden, Schere, Licht[02:11.04]Doch ohne Schmerzen geht es nicht[02:16.63][02:37.90]Wangen straffen, Jochbein schnitzen[02:42.65]Sondermüll in Lippen spritzen[02:46.21]Falten rascheln am Skalpell[02:49.84]Vorhaut weg, sehr aktuell[02:53.40]Ist die Frau im Mann nicht froh[02:57.02]Alles ganz weg, sowieso[03:00.77]Zick Zack, Zick Zack, schneid das ab[03:08.24]Tick Tack, Tick Tack, du bist alt[03:11.94]Deine Zeit läuft langsam ab[03:15.62]Wer schön sein will, der muss auch leiden[03:19.45]Eitelkeit ist nie bescheiden[03:23.03]Nadel, Faden, Schere, Licht[03:26.72]Doch ohne Schmerzen geht es nicht[03:31.12]Schöner, größer, härter[03:36.66]Straffer, glatter, stärker[03:43.40]\n"
+	},
+	{
 		"name":"Los",
 		"singer":"Rammstein",
 		"time":"4:23",
@@ -1429,6 +1581,14 @@ var mplayer_song = [
 		"img":"https://imgessl.kugou.com/stdmusic/20210924/20210924225802830393.jpg",
 		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E5%BF%83%E6%82%A6%E5%8D%BF%E5%85%AE/%E7%8E%8B%E8%8F%B2-%E5%A6%82%E6%84%BF.mp3",
 		"lrc":"[id:$00000000][ar:王菲][ti:如愿][by:][hash:0d19ac1d09d8df602b95b236d7dc02a3][al:][sign:][qq:][total:265430][offset:0][00:00.06]王菲 - 如愿 (电影《我和我的父辈》主题推广曲)[00:01.17]作词：唐恬[00:01.66]作曲：钱雷[00:02.18]编曲：钱雷[00:02.79]制作人：钱雷[00:03.44]配唱制作：窦颖、林灵[00:04.26]和音：窦颖、林灵[00:05.00]吉他：高飞[00:05.48]吉他录音：时俊峰@福达录音棚[00:07.15]Bass：李卓[00:07.76]小号：李博[00:08.20]弦乐编写、监制：胡静成[00:09.43]小提琴：张浩、侯宇虹[00:10.48]中提琴：毕芳[00:10.92]大提琴：郎莹[00:11.47]弦乐：国际首席爱乐乐团[00:12.64]弦乐录音：王小四@金田录音棚[00:14.32]人声录音师：钱雷、杨惠琳@Studio 21A[00:16.11]人声录音棚A：RMB Studio爆棚@奔跑怪物[00:18.19]人声录音棚B：Studio 21A Beijing[00:19.50]Vocal edite：汝文博@SBMS Beijing[00:20.52]混音、母带：赵靖BIG.J@SBMS Beijing[00:21.78]曲版权管理方：索尼音乐版权代理（北京）有限公司[00:31.40]你是 遥遥的路[00:34.65]山野大雾里的灯[00:39.62]我是孩童啊 走在你的眼眸[00:45.69]你是 明月清风[00:49.05]我是你照拂的梦[00:54.08]见与不见都一生 与你相拥[00:59.83]而我将 爱你所爱的人间[01:04.02]愿你所愿的笑颜[01:07.45]你的手我蹒跚在牵[01:11.10]请带我去明天[01:14.23]如果说 你曾苦过我的甜[01:18.51]我愿活成你的愿[01:21.90]愿不枉啊 愿勇往啊[01:25.44]这盛世每一天[01:59.77]你是 岁月长河[02:03.05]星火燃起的天空[02:08.11]我是仰望者 就把你唱成歌[02:14.19]你是 我之所来[02:17.52]也是我心之所归[02:22.54]世间所有路都将 与你相逢[02:28.24]而我将 爱你所爱的人间[02:32.38]愿你所愿的笑颜[02:35.83]你的手我蹒跚在牵[02:39.33]请带我去明天[02:42.67]如果说 你曾苦过我的甜[02:46.92]我愿活成你的愿[02:50.06]愿不枉啊 愿勇往啊[02:53.77]这盛世每一天[02:58.84]山河无恙 烟火寻常[03:02.59]可是你如愿的眺望[03:06.04]孩子们啊 安睡梦乡[03:09.94]像你深爱的那样[03:18.73]而我将 梦你所梦的团圆[03:22.88]愿你所愿的永远[03:26.57]走你所走的长路[03:30.01]这样的爱你啊[03:33.15]我也将 见你未见的世界[03:37.35]写你未写的诗篇[03:40.74]天边的月 心中的念[03:44.38]你永在我身边[03:49.75]与你相约 一生清澈[03:54.09]如你年轻的脸\n"
+	},
+	{
+		"name":"百利甜",
+		"singer":"魏晗（懋懋）",
+		"time":"3:27",
+		"img":"http://p1.music.126.net/6rdyULsXSI3_14yoY_ZU5w==/109951164080022322.jpg?param=130y130",
+		"src":"https://mp3link-1307315539.cos.eu-frankfurt.myqcloud.com/%E5%BF%83%E6%82%A6%E5%8D%BF%E5%85%AE/%E7%99%BE%E5%88%A9%E7%94%9C-%E6%87%8B%E6%87%8B.mp3",
+		"lrc":"[00:00.00] 作词 : 单色凌[00:00.18] 作曲 : 单色凌[00:00.37] 编曲 : keyi@单色凌工作室[00:00.56] 制作人 : 单色凌[00:00.75] Rap : 单色凌[00:00.94] 和声 : 单色凌 keyi[00:01.13] 录音 : 喃喃[00:01.32] 混音 : 廖国钺[00:01.51] 监制 : 单色凌[00:01.70] 制作公司 : Hikoon Music[00:01.89] OP : 嗨库文化[00:02.87]我可能是迷了路[00:07.29]反反复复地无助[00:11.86]我才发现 浪荡的态度[00:15.48]能放走 清醒时的拘束[00:20.96]喜怒哀乐 由不得我[00:25.47]还有温度 还似迷途[00:30.20]牵过的手 存放的礼物[00:33.80]并不会引起她的嫉妒[00:37.99]喝了一口 Baileys 像上瘾的毒[00:42.35]一点一点 将故事 画一个淡出[00:46.88]再来一口 视线模糊 心DOWN DOWN DOWN[00:52.13]迎合流星坠落的音符[00:56.13]再喝一口 Baileys 恍恍又惚惚[01:00.68]一字一句 无理取闹的舒服[01:05.16]把这烦恼 从太空抛下去 DOWN DOWN DOWN[01:10.44]原来清醒了才是幸福[01:15.69][01:33.95]它  还在飞  它 还在飞[01:36.01]失去的从来都不想去追[01:38.31]不属于我的 不纯粹[01:40.58]没关系我 自己去面对[01:42.91]第一天 第二天 第三天[01:44.67]一点一点 一天一天[01:47.63]总归是 要忘记 甜蜜的 难过的 所谓[01:52.14]我可能是迷了路[01:57.03]反反复复地无助[02:01.54]我才发现 浪荡的态度[02:05.21]能放走 清醒时的拘束[02:10.84]喜怒哀乐 由不得我[02:15.19]还有温度 还似迷途[02:19.78]牵过的手 存放的礼物[02:23.55]并不会引起她的嫉妒[02:27.54]喝了一口 Baileys 像上瘾的毒[02:32.07]一点一点 将故事 画一个淡出[02:36.63]再来一口 视线模糊 心DOWN DOWN DOWN[02:41.86]迎合流星坠落的音符[02:45.80]再喝一口 Baileys 恍恍又惚惚[02:50.34]一字一句 无理取闹的舒服[02:54.90]把这烦恼 从太空抛下去 DOWN DOWN DOWN[03:00.12]原来清醒了才是幸福[03:05.79]我可能是迷了路[03:10.16]反反复复地无助[03:14.62]我才发现 浪荡的态度[03:18.30]能放走 清醒时的拘束\n"
 	},
 	{
 		"name":"Sealed With A Kiss(以吻封缄)",
