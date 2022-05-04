@@ -135,6 +135,7 @@
   top: 7px;
   right: -215px;
   opacity: 0;
+	z-index: 200;
   -webkit-transition: opacity .5s;
   -moz-transition: opacity .5s;
   -o-transition: opacity .5s;
@@ -155,7 +156,8 @@
   width: 21px;
   height: 14px;
   background: url("https://cdn.jsdelivr.net/gh/Alpaka1017/CDN@2.0/images/mplayer_bg.png") no-repeat -29px -90px;
-  float: left;
+  z-index: 200;
+	float: left;
 }
 /* line 141, mplayer.less */
 .mp .mp-list-toggle:hover {
@@ -166,7 +168,8 @@
   width: 14px;
   height: 14px;
   background: url("https://cdn.jsdelivr.net/gh/Alpaka1017/CDN@2.0/images/mplayer_bg.png") no-repeat -29px -56px;
-  float: left;
+  z-index: 200;
+	float: left;
   margin-left: 15px;
 }
 /* line 151, mplayer.less */
@@ -203,7 +206,8 @@
   height: 28px;
   background: url("https://cdn.jsdelivr.net/gh/Alpaka1017/CDN@2.0/images/mplayer_bg.png") no-repeat;
   /*background: url("../images/mplayer_bg.png") no-repeat;*/
-  float: left;
+  z-index: 200;
+	float: left;
   margin-top: 8.5px;
 }
 /* line 181, mplayer.less */
@@ -228,6 +232,7 @@
   margin-right: 30px;
   float: left;
   background: url("https://cdn.jsdelivr.net/gh/Alpaka1017/CDN@2.0/images/mplayer_bg.png") no-repeat -86px 0;
+	z-index: 200;
 }
 /* line 199, mplayer.less */
 .mp .mp-pause:hover {
@@ -242,7 +247,8 @@
   width: 26px;
   height: 21px;
   background: url("https://cdn.jsdelivr.net/gh/Alpaka1017/CDN@2.0/images/mplayer_bg.png") no-repeat 0 -105px;
-  margin-right: 20px;
+  z-index: 200;
+	margin-right: 20px;
   float: left;
   margin-top: 12px;
 }
@@ -276,7 +282,8 @@
   width: 29px;
   height: 21px;
   background: url("https://cdn.jsdelivr.net/gh/Alpaka1017/CDN@2.0/images/mplayer_bg.png") no-repeat 0 -63px;
-  margin-top: 12px;
+  z-index: 200;
+	margin-top: 12px;
   float: left;
 }
 /* line 239, mplayer.less */
@@ -345,6 +352,7 @@
   height: 120px;
   width: 25px;
   background: url("https://cdn.jsdelivr.net/gh/Alpaka1017/CDN@2.0/images/mplayer_bg.png") no-repeat -124px 0;
+	z-index: 200;
 }
 /* line 292, mplayer.less */
 .mp .mp-toggle:hover {
@@ -356,6 +364,7 @@
   height: 21px;
   display: inline-block;
   background: url("https://cdn.jsdelivr.net/gh/Alpaka1017/CDN@2.0/images/mplayer_bg.png") no-repeat -104px -126px;
+	z-index: 200;
   position: absolute;
   top: 50px;
   left: 6px;
